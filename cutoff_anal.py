@@ -1,3 +1,4 @@
+#   first version of it (text conversion) without using dataframes,
 def round1():
     f1=open("combrou.txt","r")
     print("=============WELCOME==============")
